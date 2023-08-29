@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async-storage": "^0.1.0",
+    "react-element": "^0.2.0",
+    "snackbar": "^1.1.0",
+    "vector-icons": "^0.1.0"
+  }
+}
